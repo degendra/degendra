@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[Kalimati Price - NP](https://degendra.github.io/kalimati-price-np/)
+
+[Gold Price - NP](https://degendra.github.io/gold-price-np/)
+
 <!--
 **degendra/degendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
